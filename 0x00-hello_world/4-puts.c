@@ -5,8 +5,7 @@
  * main - "Programming is like building a multilingual puzzle,
  *  Followed by a new line"
  *
- *  Description: "Programming is like building a multilingual puzzle, Followed by a new line"
- * Return - Always 0 (Success)
+ * Return: Always 0 (Success)
 */
 
 int main(void)
